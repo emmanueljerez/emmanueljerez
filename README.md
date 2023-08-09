@@ -1,8 +1,8 @@
-# Saluton 👋 
+### Saluton 👋 
 
 I'm Emmanuel Jerez, PhD student at the University of São Paulo in São Paulo, Brazil. I'm interested in representation theory and (co)homological algebra. 
 
-# Contact ✉️ 
+### Contact ✉️ 
 
 Feel free to contact me in my email: <ejerez.math@gmail.com> or visit my divulgation blog *[Bitacora de un matemático](https://dannjerez.wordpress.com)*.
 <!---
