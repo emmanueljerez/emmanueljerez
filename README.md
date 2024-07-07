@@ -1,6 +1,6 @@
 ### Saluton 👋 
 
-I'm Emmanuel Jerez, PhD student at the University of São Paulo in São Paulo, Brazil. I'm interested in representation theory and (co)homological algebra. 
+I'm Emmanuel Jerez, PhD student at the University of São Paulo in São Paulo, Brazil. I'm interested in representation theory, (co)homological algebra and algebraic geometry. 
 
 ### Contact ✉️ 
 
